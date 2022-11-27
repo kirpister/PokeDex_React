@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  overscroll-behavior: none;
+}
+
+body {
+  /* background: rgb(255,129,204);
+  background: linear-gradient(45deg, rgba(255,129,204,1) 18%, rgba(0,247,242,1) 99%); */
+  background: #FC5C7D;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #6A82FB, #FC5C7D);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #6A82FB, #FC5C7D); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  
+  background-attachment: fixed;
+  height: 100vh;
+  font-family: 'Lato', sans-serif;
+  color: white;
+}
+

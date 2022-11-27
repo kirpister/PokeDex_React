@@ -1,0 +1,13 @@
+.about {
+    width: 60vw;
+    height: 60vh;
+    margin: 0 auto;
+    margin-top: 5%;
+    text-align: center;
+}
+
+p {
+    padding: 1rem;
+    font-size: 1.3rem;
+    line-height: 25px;
+}
